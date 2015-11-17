@@ -1,0 +1,7 @@
+$example1.arctext({radius: 300})
+
+$example2.arctext({radius: 400, dir: -1})
+
+$example3.arctext({radius: 500, rotate: false})
+
+$example4.arctext({radius: 300})
